@@ -1,0 +1,54 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderPresets>
+    <Preset name="Josie CBBE Body (outfit)(better)" set="TMS_ModularVaultSuit_H-WB">
+        <Group name="ASA"/>
+        <Group name="ASA1"/>
+        <Group name="Apal"/>
+        <Group name="AtomicBeauty"/>
+        <Group name="CBBE"/>
+        <Group name="CBBE Bodies"/>
+        <Group name="CBBE Vanilla Outfits"/>
+        <Group name="VTAW+vaultsuit"/>
+        <Group name="Kuun&apos;s outfits"/>
+        <Group name="Lacy Underwear"/>
+        <Group name="Leotard"/>
+        <Group name="LeotardNF"/>
+        <Group name="MidnightBreed-CBBEPhy"/>
+        <Group name="NorthgirlArmorFO4-CBBEPhy"/>
+        <Group name="Pampas"/>
+        <Group name="Pampas Physics Replacers"/>
+        <Group name="PinupCBBE"/>
+        <Group name="Pinups"/>
+        <Group name="PinupsCBBEBoots"/>
+        <Group name="PinupsCBBECombatBoots"/>
+        <Group name="PinupsCBBEHeels"/>
+        <Group name="Sarah&apos;s Rage Armor"/>
+		<Group name="VTAW+Dicky+Military"/>
+        <SetSlider name="Ankles" size="big" value="25"/>
+        <SetSlider name="AppleCheeks" size="big" value="50"/>
+        <SetSlider name="Belly" size="big" value="15"/>
+        <SetSlider name="BreastHeight" size="big" value="29"/>
+        <SetSlider name="Breasts" size="big" value="55"/>
+        <SetSlider name="BreastsCleavage" size="big" value="50"/>
+        <SetSlider name="BreastsNewSH" size="big" value="50"/>
+        <SetSlider name="BreastsTogether" size="big" value="50"/>
+        <SetSlider name="Butt" size="big" value="50"/>
+        <SetSlider name="ButtNew" size="big" value="100"/>
+        <SetSlider name="CalfSize" size="big" value="35"/>
+        <SetSlider name="ChubbyArms" size="big" value="26"/>
+        <SetSlider name="ChubbyWaist" size="big" value="25"/>
+        <SetSlider name="CrotchBack" size="big" value="50"/>
+        <SetSlider name="Groin" size="big" value="100"/>
+        <SetSlider name="HipUpperWidth" size="big" value="-20"/>
+        <SetSlider name="LegShape" size="big" value="100"/>
+        <SetSlider name="NipBGone" size="big" value="100"/>
+        <SetSlider name="PushUp" size="big" value="30"/>
+        <SetSlider name="RoundAss" size="big" value="50"/>
+        <SetSlider name="ShoulderTweak" size="big" value="100"/>
+        <SetSlider name="ShoulderWidth" size="big" value="80"/>
+        <SetSlider name="SternumDepth" size="big" value="100"/>
+        <SetSlider name="Thighs" size="big" value="56"/>
+        <SetSlider name="Tighter" size="big" value="45"/>
+        <SetSlider name="WaistHeight" size="big" value="10"/>
+    </Preset>
+</SliderPresets>

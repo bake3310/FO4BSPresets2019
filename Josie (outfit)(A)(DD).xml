@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<SliderPresets>
+    <Preset name="Josie (outfit)(A)(DD)" set="ZeX-FusionGirl">
+        <Group name="Fusion Girl"/>
+        <Group name="Vtaw Wardrobe - Fusion Girl"/>
+        <Group name="Vtaw Wardrobe 2 - Fusion Girl"/>
+        <SetSlider name="Ankle Size" size="big" value="25"/>
+        <SetSlider name="Armpit Ajustment" size="big" value="25"/>
+        <SetSlider name="Arms Chubby" size="big" value="40"/>
+        <SetSlider name="Arms Size" size="big" value="5"/>
+        <SetSlider name="BodyFat" size="big" value="27"/>
+        <SetSlider name="Boobs Big" size="big" value="100"/>
+        <SetSlider name="Boobs Cleavage" size="big" value="100"/>
+        <SetSlider name="Boobs Height" size="big" value="30"/>
+        <SetSlider name="Boobs Perky" size="big" value="-20"/>
+        <SetSlider name="Boobs Top Slope" size="big" value="100"/>
+        <SetSlider name="Boobs Yuge" size="big" value="52"/>
+        <SetSlider name="Bum Round" size="big" value="40"/>
+        <SetSlider name="Bum Size" size="big" value="50"/>
+        <SetSlider name="Bum Small" size="big" value="50"/>
+        <SetSlider name="Calf Size" size="big" value="115"/>
+        <SetSlider name="Chest Width" size="big" value="26"/>
+        <SetSlider name="Forearms Size" size="big" value="15"/>
+        <SetSlider name="Hips Bone" size="big" value="50"/>
+        <SetSlider name="Hips Upper Width" size="big" value="29"/>
+        <SetSlider name="Legs Chubby" size="big" value="25"/>
+        <SetSlider name="Legs Shape" size="big" value="100"/>
+        <SetSlider name="Nipples Areola" size="big" value="43"/>
+        <SetSlider name="Nipples Distance" size="big" value="-11"/>
+        <SetSlider name="Nipples Size" size="big" value="-25"/>
+        <SetSlider name="Shoulder Smooth" size="big" value="22"/>
+        <SetSlider name="Shoulder Width" size="big" value="4"/>
+        <SetSlider name="Thighs Size" size="big" value="86"/>
+        <SetSlider name="Thighs Slim" size="big" value="25"/>
+        <SetSlider name="Waist Height" size="big" value="10"/>
+    </Preset>
+</SliderPresets>
